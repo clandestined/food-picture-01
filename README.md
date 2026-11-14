@@ -4,16 +4,21 @@ Entry for make.fun's "Make the best-looking food picture" bounty.
 
 ## What it is
 
-A towering smash cheeseburger on a dark slate board: a glossy toasted
-sesame brioche bun, molten cheddar dripping over a charred crispy-edged
-beef patty, fresh lettuce, red tomato, pickles and burger sauce, steam
-rising, golden fries blurred behind, in warm dramatic side light.
+A towering double smash cheeseburger on a dark slate board: a glossy
+toasted sesame brioche bun, a thick sheet of molten cheddar dripping in
+long glossy ribbons over the patties, crisp green lettuce, a dewy slice
+of red tomato, glossy pickles, and a juicy medium-brown seared beef
+patty with visible texture, steam rising, against a clean near-black
+background in warm dramatic side light.
 
-Replaces the v1 steaming tonkotsu ramen (commit 6258898): the burger
-beats it on the judge's own order — it is hungrier at first glance
-(dripping cheese, glossy bun, steam), has stronger colour contrast
-(red tomato and green lettuce against the dark background), and reads
-clearly at 300 px, where the flat top-down ramen went muted and generic.
+Replaces the v2 smash cheeseburger (commit 1289c6d): same dish, but the
+patty is now juicy medium-brown instead of near-black burnt, the cheese
+drips are longer and glossier, the layers read as clean separate bands
+(bun / cheese / lettuce / tomato / pickles / patty), and the background
+is clean — no soft-blurred fries competing at the edges. It beats v2 on
+the judge's own order: hungrier at first glance (juicy patty, longer
+cheese drips), fresher-looking food with real texture, cleaner styling,
+and it still reads clearly at 300 px.
 
 ## How it works
 
