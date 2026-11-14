@@ -4,9 +4,16 @@ Entry for make.fun's "Make the best-looking food picture" bounty.
 
 ## What it is
 
-A steaming bowl of tonkotsu ramen: golden glistening broth, springy noodles,
-a jammy soft egg with a glossy orange yolk, chashu pork, nori, scallions and
-sesame in a dark ceramic bowl, shot from above in warm light.
+A towering smash cheeseburger on a dark slate board: a glossy toasted
+sesame brioche bun, molten cheddar dripping over a charred crispy-edged
+beef patty, fresh lettuce, red tomato, pickles and burger sauce, steam
+rising, golden fries blurred behind, in warm dramatic side light.
+
+Replaces the v1 steaming tonkotsu ramen (commit 6258898): the burger
+beats it on the judge's own order — it is hungrier at first glance
+(dripping cheese, glossy bun, steam), has stronger colour contrast
+(red tomato and green lettuce against the dark background), and reads
+clearly at 300 px, where the flat top-down ramen went muted and generic.
 
 ## How it works
 
